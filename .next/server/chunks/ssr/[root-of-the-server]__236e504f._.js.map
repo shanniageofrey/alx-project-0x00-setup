@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["file:///Users/avocet/Desktop/alx-project-0x00-setup/pages/index.tsx"],"sourcesContent":["export default function Home() {\n  return (\n    <div style={{ padding: \"2rem\", fontFamily: \"sans-serif\" }}>\n      <h1>Welcome to ALX Project 🚀</h1>\n      <p>This is the homepage.</p>\n    </div>\n  );\n}"],"names":[],"mappings":";;;;;AAAe,SAAS;IACtB,qBACE,qKAAC;QAAI,OAAO;YAAE,SAAS;YAAQ,YAAY;QAAa;;0BACtD,qKAAC;0BAAG;;;;;;0BACJ,qKAAC;0BAAE;;;;;;;;;;;;AAGT","debugId":null}}]
-}
