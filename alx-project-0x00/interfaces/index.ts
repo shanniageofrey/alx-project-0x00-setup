@@ -1,3 +1,4 @@
-export interface PillProps {
+export interface ButtonProps {
   title: string;
-}//we define title is a string type, so that we can pass it as a prop to the Pill component.
+  styles?:string; //Optional string for custom Tailwind classes (e.g., size, shape, color)
+} //we define title is a string type, so that we can pass it as a prop to the Pill & Button component.
